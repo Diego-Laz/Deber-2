@@ -2,7 +2,7 @@
 
 # Fundamentos de Circuitos Eléctricos 
 # NRC:10149
-# Tarea 1
+# Tarea 2
 
  # Integrantes:
  Carlos Allauca
@@ -18,7 +18,26 @@ OBJETIVOS:
 
 MARCO TEÓRICO:
 
+![](https://github.com/Diego-Laz/Deber-2/blob/main/mapa1.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/mapa%202.png)
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
+
+Capitulo 3:
+
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_100.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_101.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_102.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_103.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_104.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_105.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_106.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_107.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_108.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_110.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Captura_de_pantalla_111.png)
+
+Capitulo 4:
 
 VIDEOS:
 
