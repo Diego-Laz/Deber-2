@@ -39,6 +39,16 @@ Capitulo 3:
 
 Capitulo 4:
 
+![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%201.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%202.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%203.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/Cap%204.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%205.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%206.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%207.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%208.png)
+![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%209.png)
+
 VIDEOS:
 
 CONCLUSIONES:
