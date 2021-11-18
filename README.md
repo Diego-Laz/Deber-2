@@ -59,6 +59,10 @@ Calcular el voltaje dada la potencia y la resistencia
 
 https://www.youtube.com/watch?v=oUL8qwglRBM
 
+Disipación de potencia en una resistencia:
+
+https://www.youtube.com/watch?v=X0sGt-8wX_s
+
 CONCLUSIONES:
 
 1. Se le llama ley de ohm a la relacion entre: voltaje, corriente y resistencia.
