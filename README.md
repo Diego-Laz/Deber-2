@@ -50,6 +50,13 @@ Capitulo 4:
 ![](https://github.com/Diego-Laz/Deber-2/blob/main/cap%209.png)
 
 VIDEOS:
+Cambio de voltaje:
+
+https://www.youtube.com/watch?v=BZmTncg8QCI&t=5s
+
+Calcular el voltaje dada la potencia y la resistencia
+
+https://www.youtube.com/watch?v=oUL8qwglRBM
 
 CONCLUSIONES:
 
